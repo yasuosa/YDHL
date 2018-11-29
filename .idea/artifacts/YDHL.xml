@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="YDHL">
+    <output-path>$PROJECT_DIR$/out/artifacts/YDHL</output-path>
+    <root id="archive" name="YDHL.war">
+      <element id="artifact" artifact-name="509:war exploded" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
